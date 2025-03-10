@@ -13,11 +13,11 @@ The project is built on interactive data visualization principles, using R and P
 - **Showcases BI & Data Analytics skills** relevant to **public health analysis, dashboard development, and user accessibility**.
 
 ## Features
-- **Data-Driven Insights** – Compares **Australia vs. Global vision impairment trends (2020)**  
-- **Business Intelligence Approach** – Applies **data aggregation, visualization, and interactive dashboards**  
-- **Accessible Design** – Uses **colorblind-friendly palettes, high contrast, tooltips, and alt-text for screen readers**  
-- **Interactive Web Dashboard** – Published on **GitHub Pages** for public use  
-- **Data Cleaning & Transformation** – Processed **Australian Bureau of Statistics** and **Health Metrics data**
+- **Data-Driven Insights**: Compares **Australia vs. Global vision impairment trends (2020)**  
+- **Business Intelligence Approach**: Applies **data aggregation, visualization, and interactive dashboards**  
+- **Accessible Design**: Uses **colorblind-friendly palettes, high contrast, tooltips, and alt-text for screen readers**  
+- **Interactive Web Dashboard**: Published on **GitHub Pages** for public use  
+- **Data Cleaning & Transformation**: Processed **Australian Bureau of Statistics** and **Health Metrics data**
 
 ## Dataset
 The dataset used in this visualization originates from the Vision Loss Expert Group (VLEG) / Global Burden of Disease (GBD) 2020 model, accessed via the IAPB Vision Atlas. This dataset provides a comprehensive, global and country-specific breakdown of vision impairment rates.
