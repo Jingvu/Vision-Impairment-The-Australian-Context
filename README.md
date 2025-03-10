@@ -8,9 +8,9 @@ The project is built on interactive data visualization principles, using R and P
 [View the Interactive Visualization](https://github.com/Jingvu/Vision-Impairment-The-Australian-Context/blob/main/vision_impairment_plot.html)
 
 ## Objective
-- **Bridges the accessibility gap** in traditional data visualizations by incorporating **high-contrast, interactive, and colorblind-friendly design**.
-- **Enables data-driven decision-making** for **healthcare policy** by providing insights into **vision impairment trends over time**.
-- **Showcases BI & Data Analytics skills** relevant to **public health analysis, dashboard development, and user accessibility**.
+- **Promoting Accessibility**: Uses colorblind-friendly palettes, alt text, and tooltips to ensure universal usability
+- **Data-Driven Insights**: Helps identify high-risk groups, guiding healthcare strategies for reducing preventable blindness
+- **Using BI & Data Analytics skills** relevant to **public health analysis, visualization development and user accessibility**
 
 ## Features
 - **Data-Driven Insights**: Compares **Australia vs. Global vision impairment trends (2020)**  
