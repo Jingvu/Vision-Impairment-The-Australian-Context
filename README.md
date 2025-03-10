@@ -4,6 +4,9 @@
 This project is part of Noisychart, an initiative dedicated to developing accessible data visualizations for individuals with vision impairments. My role in the project focused on analyzing vision impairment trends in Australia and comparing them to global statistics using data analysis and visualization techniques.
 The project is built on interactive data visualization principles, using R and Plotly to create an accessible and insightful representation of vision impairment prevalence.
 
+### 🖥️ **Live Demo**
+[View the Interactive Visualization](https://Jingvu.github.io/Vision-Impairment-The-Australian-Context/vision_impairment_plot.html)
+
 ## Objective
 - **Bridges the accessibility gap** in traditional data visualizations by incorporating **high-contrast, interactive, and colorblind-friendly design**.
 - **Enables data-driven decision-making** for **healthcare policy** by providing insights into **vision impairment trends over time**.
