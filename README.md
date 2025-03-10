@@ -23,18 +23,18 @@ The project is built on interactive data visualization principles, using R and P
 The dataset used in this visualization originates from the Vision Loss Expert Group (VLEG) / Global Burden of Disease (GBD) 2020 model, accessed via the IAPB Vision Atlas. This dataset provides a comprehensive, global and country-specific breakdown of vision impairment rates.
 
 ## Data Accessibility & Design Features
-This visualization was built with accessibility in mind to ensure inclusivity for colorblind users, visually impaired audiences, and data analysts seeking clarity.
-- **Clear Labels & Annotations**: Gender and region markers are clearly distinguished for easy interpretation.
-- **Colorblind-Friendly Palette**: Uses Viridis color scheme to ensure readability for all vision types.
-- **Interactive Tooltips**: Displays detailed data points for better analysis & screen reader support.
-- **Alt Text for Visualizations**: Provides insightful summaries for visually impaired users.
-- **High-Contrast Design**: Improves readability for users with low vision or light sensitivity.
+This visualization was built with accessibility in mind to ensure inclusivity for colorblind users, visually impaired audiences, and data analysts seeking clarity
+- **Clear Labels & Annotations**: Gender and region markers are clearly distinguished for easy interpretation
+- **Colorblind-Friendly Palette**: Uses Viridis color scheme to ensure readability for all vision types
+- **Interactive Tooltips**: Displays detailed data points for better analysis & screen reader support
+- **Alt Text for Visualizations**: Provides insightful summaries for visually impaired users
+- **High-Contrast Design**: Improves readability for users with low vision or light sensitivity
 
 ## Key Insights
-- Females experience higher vision impairment rates than males globally and in Australia.
-- Age-related vision loss is increasing, especially presbyopia (near vision loss) due to an aging population.
-- Northern Territory has the highest blindness rates in Australia, suggesting potential healthcare access issues.
-- Vision impairment from uncorrected refractive errors is still a major global issue despite medical advancements.
+- Females experience higher vision impairment rates than males globally and in Australia
+- Age-related vision loss is increasing, especially presbyopia (near vision loss) due to an aging population
+- Northern Territory has the highest blindness rates in Australia, suggesting potential healthcare access issues
+- Vision impairment from uncorrected refractive errors is still a major global issue despite medical advancements
 
 ## References
 Baglin, J., Arora, H. K., Rahgozar, R., Shrestha, B., Timms, C., & Vu, K. C. (2024). Designing accessible data visualisations for people with vision impairments. https://data-visualisation.stem.melbourne/articles/noisycharts%20demo/datavisaccessibility.
