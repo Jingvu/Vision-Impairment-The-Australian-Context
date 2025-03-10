@@ -22,6 +22,13 @@ The project is built on interactive data visualization principles, using R and P
 ## Dataset
 The dataset used in this visualization originates from the Vision Loss Expert Group (VLEG) / Global Burden of Disease (GBD) 2020 model, accessed via the IAPB Vision Atlas. This dataset provides a comprehensive, global and country-specific breakdown of vision impairment rates.
 
+## Data Processing & Cleaning
+- Data Import & Standardization: Loaded dataset, converted percentage-based prevalence values to numeric format for analysis
+- Handling Missing Values: Checked for and imputed missing data where applicable
+- Filtering & Categorization: Extracted relevant fields and grouped data for comparison
+- Data Transformation: Normalized population data to improve comparability across regions
+- Export for Visualization: Processed data was structured for seamless integration into the interactive visualization
+
 ## Data Accessibility & Design Features
 This visualization was built with accessibility in mind to ensure inclusivity for colorblind users, visually impaired audiences, and data analysts seeking clarity
 - **Clear Labels & Annotations**: Gender and region markers are clearly distinguished for easy interpretation
