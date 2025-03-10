@@ -5,7 +5,7 @@ This project is part of Noisychart, an initiative dedicated to developing access
 The project is built on interactive data visualization principles, using R and Plotly to create an accessible and insightful representation of vision impairment prevalence.
 
 ### 🖥️ **Live Demo**
-[View the Interactive Visualization](https://Jingvu.github.io/Vision-Impairment-The-Australian-Context/vision_impairment_plot.html)
+[View the Interactive Visualization]([https://Jingvu.github.io/Vision-Impairment-The-Australian-Context/vision_impairment_plot.html](https://github.com/Jingvu/Vision-Impairment-The-Australian-Context/blob/main/vision_impairment_plot.html))
 
 ## Objective
 - **Bridges the accessibility gap** in traditional data visualizations by incorporating **high-contrast, interactive, and colorblind-friendly design**.
