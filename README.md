@@ -6,7 +6,8 @@ The project is built on interactive data visualization principles, using R and P
 
 ### Live Visualization
 [View the Interactive Visualization](https://github.com/Jingvu/Vision-Impairment-The-Australian-Context/blob/main/vision_impairment_plot.html)
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/8ee1725c-5e39-470c-b0b3-b1e14fb9128a)
 
 ## Objective
 - **Promoting Accessibility**: Uses colorblind-friendly palettes, alt text, and tooltips to ensure universal usability
